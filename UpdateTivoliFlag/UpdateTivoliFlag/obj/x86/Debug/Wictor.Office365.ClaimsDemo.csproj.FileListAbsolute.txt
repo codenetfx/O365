@@ -1,0 +1,13 @@
+C:\Temp1\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\bin\Debug\Wictor.Office365.ClaimsDemo.exe.config
+C:\Temp1\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\obj\x86\Debug\Wictor.Office365.ClaimsDemo.csprojResolveAssemblyReference.cache
+C:\Temp1\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\bin\Debug\Wictor.Office365.ClaimsDemo.exe
+C:\Temp1\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\bin\Debug\Wictor.Office365.ClaimsDemo.pdb
+C:\Temp1\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\bin\Debug\Microsoft.IdentityModel.dll
+C:\Temp1\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\obj\x86\Debug\Wictor.Office365.ClaimsDemo.exe
+C:\Temp1\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\obj\x86\Debug\Wictor.Office365.ClaimsDemo.pdb
+C:\Users\skilling\Documents\Visual Studio 2013\Projects\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\bin\Debug\Wictor.Office365.ClaimsDemo.exe.config
+C:\Users\skilling\Documents\Visual Studio 2013\Projects\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\obj\x86\Debug\Wictor.Office365.ClaimsDemo.exe
+C:\Users\skilling\Documents\Visual Studio 2013\Projects\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\obj\x86\Debug\Wictor.Office365.ClaimsDemo.pdb
+C:\Users\skilling\Documents\Visual Studio 2013\Projects\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\bin\Debug\Wictor.Office365.ClaimsDemo.exe
+C:\Users\skilling\Documents\Visual Studio 2013\Projects\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\bin\Debug\Wictor.Office365.ClaimsDemo.pdb
+C:\Users\skilling\Documents\Visual Studio 2013\Projects\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\obj\x86\Debug\Wictor.Office365.ClaimsDemo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\Projects\ediscovery365\Console Apps\SendNotifications\SendNotifications\bin\Debug\Mosaicco.SendNotifications.Console.exe.config
+c:\Projects\ediscovery365\Console Apps\SendNotifications\SendNotifications\bin\Debug\Mosaicco.SendNotifications.Console.exe
+c:\Projects\ediscovery365\Console Apps\SendNotifications\SendNotifications\bin\Debug\Mosaicco.SendNotifications.Console.pdb
+c:\Projects\ediscovery365\Console Apps\SendNotifications\SendNotifications\obj\x86\Debug\Mosaicco.SendNotifications.Console.csprojResolveAssemblyReference.cache
+c:\Projects\ediscovery365\Console Apps\SendNotifications\SendNotifications\obj\x86\Debug\Mosaicco.SendNotifications.Console.exe
+c:\Projects\ediscovery365\Console Apps\SendNotifications\SendNotifications\obj\x86\Debug\Mosaicco.SendNotifications.Console.pdb

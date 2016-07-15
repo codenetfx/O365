@@ -1,0 +1,6 @@
+c:\Projects\ediscovery365\Console Apps\LegalHoldReport\LegalHoldReport\bin\Debug\Mosaicco.LegalHoldReport.Console.exe.config
+c:\Projects\ediscovery365\Console Apps\LegalHoldReport\LegalHoldReport\bin\Debug\Mosaicco.LegalHoldReport.Console.exe
+c:\Projects\ediscovery365\Console Apps\LegalHoldReport\LegalHoldReport\bin\Debug\Mosaicco.LegalHoldReport.Console.pdb
+c:\Projects\ediscovery365\Console Apps\LegalHoldReport\LegalHoldReport\obj\x86\Debug\Mosaicco.LegalHoldReport.Console.exe
+c:\Projects\ediscovery365\Console Apps\LegalHoldReport\LegalHoldReport\obj\x86\Debug\Mosaicco.LegalHoldReport.Console.pdb
+c:\Projects\ediscovery365\Console Apps\LegalHoldReport\LegalHoldReport\obj\x86\Debug\Mosaicco.LegalHoldReport.Console.csprojResolveAssemblyReference.cache

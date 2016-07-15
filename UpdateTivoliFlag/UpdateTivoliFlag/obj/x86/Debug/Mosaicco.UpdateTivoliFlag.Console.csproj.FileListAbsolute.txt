@@ -1,0 +1,17 @@
+C:\Users\skilling\Documents\Visual Studio 2013\Projects\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\bin\Debug\Wictor.Office365.ClaimsDemo.exe.config
+C:\Users\skilling\Documents\Visual Studio 2013\Projects\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\bin\Debug\Wictor.Office365.ClaimsDemo.exe
+C:\Users\skilling\Documents\Visual Studio 2013\Projects\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\bin\Debug\Wictor.Office365.ClaimsDemo.pdb
+C:\Users\skilling\Documents\Visual Studio 2013\Projects\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\obj\x86\Debug\Wictor.Office365.ClaimsDemo.exe
+C:\Users\skilling\Documents\Visual Studio 2013\Projects\Wictor.Office365.ClaimsDemo\Wictor.Office365.ClaimsDemo\obj\x86\Debug\Wictor.Office365.ClaimsDemo.pdb
+c:\Projects\ediscovery365\Wictor.Office365.ClaimsDemo\bin\Debug\Wictor.Office365.ClaimsDemo.exe.config
+c:\Projects\ediscovery365\Wictor.Office365.ClaimsDemo\obj\x86\Debug\Wictor.Office365.ClaimsDemo.exe
+c:\Projects\ediscovery365\Wictor.Office365.ClaimsDemo\obj\x86\Debug\Wictor.Office365.ClaimsDemo.pdb
+c:\Projects\ediscovery365\Wictor.Office365.ClaimsDemo\obj\x86\Debug\Mosaicco.UpdateTivoliFlag.Console.csprojResolveAssemblyReference.cache
+c:\Projects\ediscovery365\Wictor.Office365.ClaimsDemo\bin\Debug\Wictor.Office365.ClaimsDemo.exe
+c:\Projects\ediscovery365\Wictor.Office365.ClaimsDemo\bin\Debug\Wictor.Office365.ClaimsDemo.pdb
+c:\Projects\ediscovery365\Console Apps\UpdateTivoliFlag\UpdateTivoliFlag\bin\Debug\Mosaicco.UpdateTivoliFlag.Console.exe.config
+c:\Projects\ediscovery365\Console Apps\UpdateTivoliFlag\UpdateTivoliFlag\bin\Debug\Mosaicco.UpdateTivoliFlag.Console.exe
+c:\Projects\ediscovery365\Console Apps\UpdateTivoliFlag\UpdateTivoliFlag\bin\Debug\Mosaicco.UpdateTivoliFlag.Console.pdb
+c:\Projects\ediscovery365\Console Apps\UpdateTivoliFlag\UpdateTivoliFlag\obj\x86\Debug\Mosaicco.UpdateTivoliFlag.Console.exe
+c:\Projects\ediscovery365\Console Apps\UpdateTivoliFlag\UpdateTivoliFlag\obj\x86\Debug\Mosaicco.UpdateTivoliFlag.Console.pdb
+c:\Projects\ediscovery365\Console Apps\UpdateTivoliFlag\UpdateTivoliFlag\obj\x86\Debug\Mosaicco.UpdateTivoliFlag.Console.csprojResolveAssemblyReference.cache
